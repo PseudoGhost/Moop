@@ -13,6 +13,6 @@ html {
     src: url(lexend-regular.ttf);
 }
 
-div {
+html, body, div {
     font-family: Lexend;
 }
