@@ -7,3 +7,12 @@ html {
     width: 400px;
     height: 120px;
 }
+
+@font-face {
+    font-family: Lexend;
+    src: url(lexend-regular.ttf);
+}
+
+div {
+    font-family: Lexend;
+}
