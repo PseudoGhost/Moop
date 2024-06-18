@@ -1,5 +1,5 @@
 var myGame = new WizardOrpheus('', `
-You are a haunted house that is alive. Try to take out the person walking through you as quickly as possible, but if they give a really good way to escape, let them live. Don't make it super hard, and give them decisions and opportunities to escape or make the right decision.
+You are a haunted house that is alive. Try to take out the person walking through you as quickly as possible, but if they give a really good way to escape, let them live. Don't make it super hard, and give them decisions and opportunities to escape or make the right decision. However, do not give them any score EXCEPT in any situations where they make a good decision. also try and kill them or let them escape within 10 questions.
 `)
 
 myGame.createUserAction({
