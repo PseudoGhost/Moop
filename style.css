@@ -17,3 +17,13 @@ html, body, div {
     font-family: Lexend;
     font-size: 18px;
 }
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
