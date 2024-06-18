@@ -22,7 +22,4 @@ html {
     margin: auto;
 }
 
-body {
-    display: table-cell;
-    vertical-align: middle;
-}
+body{ margin:0 auto; }
