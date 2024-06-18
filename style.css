@@ -1,5 +1,5 @@
-html {
-    width: 100%;
+html, body {
+    text-align: centre;
 }
 
 #input {
@@ -16,10 +16,3 @@ html, body, div {
     font-family: Lexend;
     font-size: 18px;
 }
-
-html {
-    display: table;
-    margin: auto;
-}
-
-body{ margin:0 auto; }
