@@ -16,3 +16,9 @@ html, body, div {
     font-family: Lexend;
     font-size: 18px;
 }
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
